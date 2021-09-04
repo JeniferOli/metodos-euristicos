@@ -61,3 +61,4 @@ x2 <- (-b - sqrt(delta)) / (2 * a)
 return (c(x1,x2))}
 
 equacaosegundograu (2,-10,2)
+
